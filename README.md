@@ -1,2 +1,2 @@
-# projeto-site
- Projeto de um siste criado durante o curso de Git e GitHub
+# Projeto do meu primeiro site
+ Projeto de um site pausado. Em breve retornarei a trabalhar nele.
